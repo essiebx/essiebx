@@ -42,7 +42,7 @@ My expertise ranges from high-level **Excel modeling**, **Looker**, and **BigQue
 ## Professional Connectivity
 
 <p align="left">
-   <a href="https://estheraisimoiportfolio.vercel.app/">
+   <a href="https://estheraisimoi.vercel.app">
     <img src="https://img.shields.io/badge/PortfolioWebsite-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/esthernaisimoi">
