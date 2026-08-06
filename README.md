@@ -52,7 +52,5 @@ My expertise ranges from high-level **Excel modeling**, **Looker**, and **BigQue
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=essiebx&color=217346&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <br>
-  <i>Open to remote global opportunities at the intersection of Product, Data.</i>
+  <i>Open to remote global opportunities at the intersection of Ai, Product, Data.</i>
 </p>
