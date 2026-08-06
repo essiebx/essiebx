@@ -1,11 +1,5 @@
 
 # Esther Naisimoi
-# <p align="left">  <a href="https://estheraisimoiportfolio.vercel.app/">
-### <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=217346&width=450&lines=Data+Science+%26+Product+Strategy;Machine+Learning+Eng;BigQuery+%26+Advanced+Excel;Web3+Data+Research;BI+%26+Analytics" alt="Typing SVG" /></a> </p>
-
----
-
-## Executive Summary
 I believe that data is the heartbeat of any operation—from a local warehouse to a global business. If there is input and output, there is a story to be told. My mission is to translate those stories into measurable value by involving all stakeholders; I believe we can drive impact together.
 
 My expertise ranges from high-level **Excel modeling**, **Looker**, and **BigQuery** analytics to building **multilingual NLP models**. I specialize in bridging the gap between traditional business intelligence and emerging Web3 technologies, ensuring data drives measurable user value.
