@@ -52,5 +52,5 @@ My expertise ranges from high-level **Excel modeling**, **Looker**, and **BigQue
 
 ---
 <p align="center">
-  <i>Open to remote global opportunities at the intersection of Ai, Product, Data.</i>
+  <i>Open to opportunities at the intersection of Ai, Product, Data.</i>
 </p>
