@@ -2,7 +2,7 @@
 # Esther Naisimoi
 I believe that data is the heartbeat of any operation thats from a local warehouse to a global business. If there is input and output, there is a story to be told. My mission is to translate those stories into measurable value by involving all stakeholders; I believe we can drive impact together.
 
-My expertise ranges from high-level **Excel modeling**, **Looker**, and **BigQuery** analytics to building **multilingual NLP models**. I specialize in bridging the gap between traditional business intelligence and emerging Web3 technologies, ensuring data drives measurable user value.
+My expertise ranges from high-level **Excel modeling**, **Looker**, and **BigQuery** analytics to building **multilingual NLP models**. I specialize in bridging the gap between traditional business intelligence and emerging technologies, ensuring data drives measurable user value.
 
 ---
 
