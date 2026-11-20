@@ -33,7 +33,7 @@ My expertise ranges from high-level **Excel modeling**, **Looker**, and **BigQue
 
 
 
-## Professional Connectivity
+## Relevant Connectivities
 
 <p align="left">
    <a href="https://estheraisimoi.vercel.app">
