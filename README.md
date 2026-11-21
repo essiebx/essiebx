@@ -1,6 +1,6 @@
 # Esther Naisimoi
 
-### Data Analyst | Product Analytics · BI · SQL · Python
+### DData analyst specializing in SQL, Python, and BI to turn product and customer data into measurable outcomes. I combine funnel analysis, experimentation, data quality, and dashboarding to improve conversion, clarify performance, and support data-informed decisions. Seeking product analytics and business intelligence opportunities.
 
 I turn product, customer, and operational data into clear metrics and practical recommendations. My portfolio focuses on funnel and conversion analysis, marketing measurement, data quality, and decision-ready reporting.
 
