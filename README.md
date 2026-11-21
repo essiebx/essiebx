@@ -1,8 +1,8 @@
 # Esther Naisimoi
 
-### DData analyst specializing in SQL, Python, and BI to turn product and customer data into measurable outcomes. I combine funnel analysis, experimentation, data quality, and dashboarding to improve conversion, clarify performance, and support data-informed decisions. Seeking product analytics and business intelligence opportunities.
+### Data analyst specializing in SQL, Python, and BI to turn product and customer data into measurable outcomes. I combine funnel analysis, experimentation, data quality, and dashboarding to improve conversion, clarify performance, and support data-informed decisions.
 
-I turn product, customer, and operational data into clear metrics and practical recommendations. My portfolio focuses on funnel and conversion analysis, marketing measurement, data quality, and decision-ready reporting.
+My portfolio focuses on funnel and conversion analysis, marketing measurement, data quality, and decision-ready dashboards.
 
 **Core tools:** SQL · Python · BigQuery · Looker · Excel · Power BI · Tableau
 
@@ -12,9 +12,9 @@ I turn product, customer, and operational data into clear metrics and practical 
 
 | Project | What it demonstrates |
 | --- | --- |
-| [E-commerce Conversion & Customer Funnel Analysis](https://github.com/essiebx/e-commerce-conversion-customer-funnel-analysis) | Analyzes customer journey stages, conversion, and drop-off using Python and SQL. Includes a reproducible pipeline and synthetic-data option. |
-| [Omnichannel Marketing & ERP Reconciliation Dashboard](https://github.com/essiebx/omnichannel-marketing-erp-reconciliation-dashboard) | A portfolio project in progress: designs a way to reconcile ad-platform claims with verified ERP revenue, with planned SQL models and BI reporting. Data is synthetic. |
-| [Product-Led Growth Engine](https://github.com/essiebx/Product-Led-Growth-Engine) | Product and growth analytics workflow covering trial funnels, lead reconciliation, experiment monitoring, data quality, and Tableau-ready exports. |
+| [E-commerce Conversion & Customer Funnel Analysis](https://github.com/essiebx/e-commerce-conversion-customer-funnel-analysis) | Analyzes customer journey stages, conversion, and drop-off using Python and data visualization. |
+| [Omnichannel Marketing & ERP Reconciliation Dashboard](https://github.com/essiebx/omnichannel-marketing-erp-reconciliation-dashboard) | A portfolio project in progress: reconciles advertising activity with ERP and transaction data for clearer marketing measurement. |
+| [Product-Led Growth Engine](https://github.com/essiebx/Product-Led-Growth-Engine) | Product and growth analytics workflow covering trial funnels, lead reconciliation, experiment monitoring, data quality, and performance reporting. |
 | [Data Quality Guardrails](https://github.com/essiebx/data-quality-guardrails) | Python and SQLite pipeline that validates transaction records, routes exceptions, and reports processing status. |
 
 ## How I work
